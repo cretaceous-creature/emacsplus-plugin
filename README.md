@@ -11,6 +11,7 @@ for example
 `
 config.sh ~/.eclipse/com.st.stm32cube.ide.mcu.rcp.product_1.0.1_1935177884_linux_gtk_x86_64/
 `
+## for qt emacs key setting, check the qtforemacs folder
 
 ##Good Luck
 
